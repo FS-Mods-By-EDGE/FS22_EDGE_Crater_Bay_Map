@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<placeables>
+    <placeable filename="data/placeables/mapFR/farmBuildings/farmPreplaced.xml"                 position="665 65 425.5"  rotation="0 180 0" defaultFarmProperty="true" farmId="1"/>
+    <placeable filename="data/placeables/lizard/waterTanks/level02/waterTankLevel02.xml"        position="605.5 65 418"  rotation="0 90 0"   defaultFarmProperty="true" farmId="1"/>
+    <placeable filename="data/placeables/lizard/bunkerSilo/bunkerSiloSmall/bunkerSiloSmall.xml" position="670 65 480"    rotation="0 90 0"  defaultFarmProperty="true" farmId="1"/>
+    <placeable filename="data/placeables/unia/farma/farma400/farma400.xml"                      position="664 65 462"    rotation="0 0 0"   defaultFarmProperty="true" farmId="1" />
+    <placeable filename="data/placeables/easySheds/easyShed01/easyShed01.xml"                   position="600 65 440"    rotation="0 90 0"  defaultFarmProperty="true" farmId="1"/>
+    <placeable filename="data/placeables/lizard/hayLoft/hayLoft.xml"                            position="602 65.05 478" rotation="0 180 0" defaultFarmProperty="true" farmId="1"/>
+
+    <placeable mapBoundId="bga"                filename="data/placeables/planET/bga1mw/bga1mw.xml"                                             position="-396 59.955 657.647" rotation="0 -90 0" />
+    <placeable mapBoundId="bgaBunkerSilo1"     filename="data/placeables/planET/bgaBunkerSilo/bgaBunkerSilo.xml"                               position="-420.5 61.79 605"    rotation="0 0 0" />
+    <placeable mapBoundId="bgaBunkerSilo2"     filename="data/placeables/planET/bgaBunkerSilo/bgaBunkerSilo.xml"                               position="-386 61.79 605"      rotation="0 0 0" />
+    <placeable mapBoundId="bgaWeighingStation" filename="data/placeables/lizard/weighingStation/weighingStationSmall/weighingStationSmall.xml" position="-326 60 643"         rotation="0 90 0" />
+    <placeable mapBoundId="bgaHall"            filename="data/placeables/planET/bgaHall/bgaHall.xml"                                           position="-325.75 60 687.5"    rotation="0 -180 0" />
+
+    <placeable mapBoundId="sellingStationGrainElevator" filename="data/placeables/mapFR/sellingStationGrainElevator/sellingStationGrainElevator.xml" position="680 140 -537" rotation="0 0 0" />
+
+    <placeable mapBoundId="sellingStationWood" filename="data/placeables/mapFR/sellingStationWood/sellingStationWood.xml" position="369 116 -819" rotation="-180 -80 -180" />
+
+    <placeable mapBoundId="sellingStationWool" filename="data/placeables/mapFR/sellingStationWool/sellingStationWool.xml" position="620 163.05 -215" rotation="0 0 0" />
+
+    <placeable mapBoundId="sellingStationBales" filename="data/placeables/mapFR/sellingStationBales/sellingStationBales.xml" position="-255.5 69.05 227.5" rotation="0 0 0" />
+
+    <placeable mapBoundId="sellingStationGrainMill" filename="data/placeables/mapFR/sellingStationGrainMill/sellingStationGrainMill.xml" position="-167.5 60 61.5" rotation="0 0 0" />
+    <placeable mapBoundId="sellingStationBakery" filename="data/placeables/mapFR/sellingStationBakery/sellingStationBakery.xml" position="111.4 71.5 -52" rotation="0 17.3 0" />
+    <placeable mapBoundId="sellingStationCheeseDairy" filename="data/placeables/mapFR/sellingStationCheeseDairy/sellingStationCheeseDairy.xml" position="295 70 170" rotation="0 0 0" />
+    <placeable mapBoundId="sellingStationFarmShop" filename="data/placeables/mapFR/sellingStationFarmShop/sellingStationFarmShop.xml" position="-432 99.8 -708" rotation="0 0 0" />
+
+    <placeable mapBoundId="railroadSilo01" filename="data/placeables/mapFR/railroadSilo01/railroadSilo01.xml" position="90 60 791" rotation="0 180 0" /> <!-- Railroad Silo S -->
+    <placeable mapBoundId="railroadSilo02" filename="data/placeables/mapFR/railroadSilo02/railroadSilo02.xml" position="319 112 -658" rotation="0 -100 0" /> <!-- Railroad Silo N -->
+
+    <placeable mapBoundId="sellingStationTrain" filename="data/placeables/mapFR/sellingStationTrain/sellingStationTrain.xml" position="355 116 -970" rotation="0 0 0" />
+    <placeable mapBoundId="sellingStationWoodTrain01" filename="data/placeables/mapFR/sellingStationWoodTrain/sellingStationWoodTrain.xml" position="972.8 68.789 713" rotation="0 -62 0" />
+    <placeable mapBoundId="sellingStationWoodTrain02" filename="data/placeables/mapFR/sellingStationWoodTrain/sellingStationWoodTrain.xml" position="350.5 116 -966.7" rotation="0 -8 0" />
+
+    <placeable mapBoundId="sellingStationVehicles" filename="data/placeables/mapFR/sellingStationVehicles/sellingStationVehicles.xml" position="597 65 106" rotation="0 0 0" />
+
+    <placeable mapBoundId="gasStation01" filename="data/placeables/mapFR/gasStation/gasStation01.xml" position="-279.5 60 771" rotation="0 0 0" /> <!-- Gas Station S -->
+    <placeable mapBoundId="gasStation02" filename="data/placeables/mapFR/gasStation/gasStation02.xml" position="578 65 112" rotation="0 0 0" /> <!-- Gas Station Vehicle Shop -->
+    <placeable mapBoundId="gasStation03" filename="data/placeables/mapFR/gasStation/gasStation03.xml" position="4.5 130 -934" rotation="0 180 0" /> <!-- Gas Station N -->
+
+    <placeable mapBoundId="sellingStationBHP" filename="data/placeables/lizard/sellingPoints/bhp/bhp.xml" position="50 132 -618" rotation="0 90 0" />
+
+    <placeable mapBoundId="sellingStationCarpenter" filename="data/placeables/lizard/productionPoints/carpenterEU/carpenterEU.xml" position="343 116 -790" rotation="0 -10 0" />
+
+    <placeable mapBoundId="limeStation01" filename="data/placeables/lizard/limeStation/limeStation.xml" position="636 140 -555" rotation="0 -90 0" /> <!-- Lime Station Grain Elevator -->
+    <placeable mapBoundId="limeStation02" filename="data/placeables/lizard/limeStation/limeStation.xml" position="349.5 112.15 -702.5" rotation="0 60 0" /> <!-- Lime Station Train N -->
+    <placeable mapBoundId="limeStation03" filename="data/placeables/lizard/limeStation/limeStation.xml" position="56 60 764" rotation="0 0 0" /> <!-- Lime Station Train S -->
+
+    <placeable mapBoundId="sellingStationRaisinFactory" filename="data/placeables/lizard/productionPoints/raisinFactory/raisinFactory.xml" position="-655 131.5 -574" rotation="0 90 0" />
+
+    <placeable mapBoundId="debrisCrusher" filename="data/placeables/lizard/sellingPoints/debrisCrusher/debrisCrusher.xml" position="-312 69 208" rotation="0 180 0" />
+
+    <placeable mapBoundId="trainSystem" filename="data/placeables/mapFR/trainSystem/trainSystem.xml" position="0 0 0" rotation="0 0 0" />
+</placeables>
